@@ -1,1 +1,1 @@
-run npm i
+run commit npm i
